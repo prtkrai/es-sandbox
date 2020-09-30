@@ -1,5 +1,5 @@
 _______________________________
-Before you build
+BEFORE YOU BUILD
 
 1. Install Maven 3
 2. Install ${es-sandbox}/lib/shawty-0.9.3.jar into your local maven repo:
